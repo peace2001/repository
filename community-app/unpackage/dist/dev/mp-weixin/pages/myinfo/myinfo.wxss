@@ -1,0 +1,11 @@
+
+.icon{
+	width: 100%;
+	text-align: right;
+}
+.icon image{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+}
+

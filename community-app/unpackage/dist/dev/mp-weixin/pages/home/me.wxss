@@ -1,0 +1,20 @@
+
+.info_bg{
+	height: auto;
+	padding: 30rpx;
+	background: #FFFFFF;
+	margin-left:60rpx;
+	border-radius: 15rpx;
+	box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+}
+.icon{
+	width: 100%;
+	text-align: right;
+	margin-bottom: 10rpx;
+}
+.icon image{
+	width: 180rpx;
+	height: 180rpx;
+	border-radius: 50%;
+}
+

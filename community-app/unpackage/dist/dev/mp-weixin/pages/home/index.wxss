@@ -1,0 +1,23 @@
+
+.container {
+	padding: 10px;
+}
+.swiper{
+	height: 300rpx;
+	border-radius: 20rpx;
+	overflow: hidden;
+}
+.swiper-item {
+	height: 100%;
+	display: block;
+    line-height: 300rpx;
+ 	text-align: center;
+}
+.swiper-image{ 
+	height: 100%;
+    width:100%;
+}
+.main{
+	margin-top: 20rpx;
+}
+

@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 隐藏指定页面的返回按钮 */
+uni-page[data-page="pages/login/login"] .uni-page-head-hd {
+	display: none;
+}
+.df {
+	display: flex;
+}
+.wbg {
+	background: #FFFFFF;
+	border-radius: 20rpx;
+	margin: 20rpx;
+	padding: 20rpx;
+	box-shadow: 2rpx 2rpx 5rpx #CCCCCC;
+}
+.tips{
+	font-size: 30rpx;
+	font-weight: 700;
+}
+.btn{
+	background-color: #6CB6FF;
+	color: white;
+}
+.ml20 {
+	margin-left: 20rpx;
+}
+.mr20 {
+	margin-right: 20rpx;
+}
+.mt20 {
+	margin-top: 20rpx;
+}
+.mb20 {
+	margin-bottom: 20rpx;
+}
+.m20 {
+	margin: 20rpx;
+}
+

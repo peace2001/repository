@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/home/index",
+    "pages/splash/splash",
+    "pages/home/me",
+    "pages/home/data",
+    "pages/home/allservices",
+    "pages/regregister/regregister",
+    "pages/myinfo/myinfo",
+    "pages/changepwd/changepwd",
+    "pages/feedback/feedback",
+    "pages/card/card",
+    "pages/card/recharge"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "智慧校园",
+    "navigationBarBackgroundColor": "#6CB6FF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "color": "#8A8A8A",
+    "selectedColor": "#6CB6FF",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/home/index",
+        "iconPath": "static/tabbar/home_icon1.png",
+        "selectedIconPath": "static/tabbar/home_icon1_c.png"
+      },
+      {
+        "text": "全部应用",
+        "pagePath": "pages/home/allservices",
+        "iconPath": "static/tabbar/home_icon2.png",
+        "selectedIconPath": "static/tabbar/home_icon2_c.png"
+      },
+      {
+        "text": "数据分析",
+        "pagePath": "pages/home/data",
+        "iconPath": "static/tabbar/home_icon3.png",
+        "selectedIconPath": "static/tabbar/home_icon3_c.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/home/me",
+        "iconPath": "static/tabbar/home_icon4.png",
+        "selectedIconPath": "static/tabbar/home_icon4_c.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
